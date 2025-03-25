@@ -1,3 +1,4 @@
+mermaid: true
 collections:
   authors:
     output: true
